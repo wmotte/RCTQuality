@@ -1,2 +1,1 @@
-# RCTQuality
-Methodological RCT quality over time
+Data and script part of manusctipt: "The methodological quality of randomized controlled trials has improved but is still not good enough: an analysis of 177,620 randomized controlled trials published between 1966 and 2018"
